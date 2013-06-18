@@ -8,7 +8,7 @@
     "site": "https://github.com/grevory/angular-local-storage"
   },
   "dependencies": {
-      "angular": "1.0.4"
+      "angular": "~1.0.7"
     },
   "repository": {
     "type": "git",
