@@ -8,10 +8,10 @@
     "site": "https://github.com/grevory/angular-local-storage"
   },
   "dependencies": {
-      "angular": "1.0.4"
+      "angular": "~1"
     },
   "repository": {
     "type": "git",
-    "url": "git://github.com/jjperezaguinaga/bower-angular-local.git"
+    "url": "git://github.com/jpmec/bower-angular-local.git"
   }
 }
